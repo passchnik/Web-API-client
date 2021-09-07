@@ -1,0 +1,18 @@
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.exe
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.deps.json
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.runtimeconfig.json
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.runtimeconfig.dev.json
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.dll
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\ref\API Client.dll
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\API Client.pdb
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.csproj.AssemblyReference.cache
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.AssemblyInfoInputs.cache
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.AssemblyInfo.cs
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.csproj.CoreCompileInputs.cache
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.dll
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\ref\API Client.dll
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.pdb
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.genruntimeconfig.cache
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CV\Тестовое в Consimple\Result\ConsoleApp1\API Client\obj\Debug\net5.0\API Client.csproj.CopyComplete
